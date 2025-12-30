@@ -1,2 +1,8 @@
 # Codtech_Internship_Task_1_DM
 Created a 30-day Social Media Post Calendar for Codtech IT Solutions to enhance brand visibility and engagement. Included daily captions, hashtags, image ideas and content types for Instagram, LinkedIn and Facebook. The plan ensures consistent, creative and audience-focused content aligned with Codtech’s digital marketing goals.
+Candidate Name: AKASH N S
+Domain: Digital Marketing
+Organization: Codtech IT Solution Private Limited
+Duration: 4 Weeks
+Internship Period: 22 December 2025 - 19 January 2026
+Intern ID: CTIS0933
